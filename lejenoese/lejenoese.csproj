@@ -124,6 +124,7 @@
     </ItemGroup>
     <ItemGroup>
         <Content Include="Billeder\bil1.png" />
+        <Content Include="Billeder\logo.png" />
         <Content Include="Billeder\puntof.png" />
         <Content Include="favicon.ico" />
         <Content Include="fonts\glyphicons-halflings-regular.svg" />
