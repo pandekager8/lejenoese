@@ -123,6 +123,8 @@
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
     <ItemGroup>
+        <Content Include="Billeder\billede.png" />
+        <Content Include="Billeder\bgg.jpg" />
         <Content Include="Billeder\bil1.png" />
         <Content Include="Billeder\logo.png" />
         <Content Include="Billeder\puntof.png" />
