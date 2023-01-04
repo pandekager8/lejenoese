@@ -128,6 +128,7 @@
         <Content Include="Billeder\bil1.png" />
         <Content Include="Billeder\logo.png" />
         <Content Include="Billeder\puntof.png" />
+        <Content Include="Billeder\scrap.jpg" />
         <Content Include="favicon.ico" />
         <Content Include="fonts\glyphicons-halflings-regular.svg" />
         <Content Include="Global.asax" />
