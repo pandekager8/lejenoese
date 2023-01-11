@@ -123,6 +123,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Billeder\puntob.JPG" />
+    <Content Include="Billeder\polokempel.jpg" />
     <Content Include="Billeder\billede.png" />
     <Content Include="Billeder\bgg.jpg" />
     <Content Include="Billeder\bil1.png" />
@@ -131,6 +133,9 @@
     <Content Include="Billeder\mockup.png" />
     <Content Include="Billeder\puntof.png" />
     <Content Include="Billeder\scrap.jpg" />
+    <Content Include="Billeder\tt.jpg" />
+    <Content Include="Billeder\yaris.png" />
+    <Content Include="Billeder\yaris1.png" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="fonts\thisbold.OTF" />
