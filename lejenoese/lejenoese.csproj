@@ -127,10 +127,14 @@
     <Content Include="Billeder\bgg.jpg" />
     <Content Include="Billeder\bil1.png" />
     <Content Include="Billeder\logo.png" />
+    <Content Include="Billeder\mockup sort.png" />
+    <Content Include="Billeder\mockup.png" />
     <Content Include="Billeder\puntof.png" />
     <Content Include="Billeder\scrap.jpg" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="fonts\thisbold.OTF" />
+    <Content Include="fonts\thisone.OTF" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
